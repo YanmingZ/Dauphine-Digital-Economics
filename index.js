@@ -19,3 +19,7 @@ window.onload = function(){
 		return parseInt(hexBalance, 16);
 	}
 };
+
+function Learnmore() {
+    document.getElementById("more").innerHTML = "Yanming finished his dual bachelor degrees of Management Science and Statistics in Renmin University of China and came to paris for study in 2021.";
+}
