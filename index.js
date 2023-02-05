@@ -19,9 +19,3 @@ window.onload = function(){
 		return parseInt(hexBalance, 16);
 	}
 };
-
-function Learnmore() {
-	document.querySelector(".Jumpweb").addEventListener('click', event => {
-		document.open = "https://www.linkedin.com/in/yanming-zhang-243576132/";
-	})
-}
