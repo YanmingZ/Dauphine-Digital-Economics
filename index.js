@@ -20,7 +20,7 @@ window.onload = function(){
 	}
 };
 
-window.onload = function() {
+function Learnmore() {
 	document.querySelector(".Jumpweb").addEventListener('click', event => {
 		document.open = "https://www.linkedin.com/in/yanming-zhang-243576132/";
 	})
