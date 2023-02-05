@@ -19,9 +19,3 @@ window.onload = function(){
 		return parseInt(hexBalance, 16);
 	}
 };
-
-window.onload = function() {
-	document.querySelector(".mySuperButton").addEventListener('click', event => {
-		document.location.href = "https://www.linkedin.com/in/margot-monge-947721197";
-	})
-}
