@@ -20,6 +20,3 @@ window.onload = function(){
 	}
 };
 
-function Learnmore() {
-  location.href("https://www.linkedin.com/in/yanming-zhang-243576132/")
-}
