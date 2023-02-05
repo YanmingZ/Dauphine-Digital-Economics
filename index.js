@@ -21,5 +21,5 @@ window.onload = function(){
 };
 
 function Learnmore() {
-    document.getElementById("more").innerHTML = <h5 style="text-align: center;">A banker-to-be</h5>;
+  location.href("https://www.linkedin.com/in/yanming-zhang-243576132/")
 }
